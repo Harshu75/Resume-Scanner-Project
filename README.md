@@ -1,4 +1,4 @@
-# resume_scaneer-_project
+# Resume Scanner 
 Resume Scanner with Skill Suggestion System -
 
 This project is a smart Resume Scanner built using Neural Networks (Sentence-BERT) and Streamlit.
